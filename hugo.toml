@@ -1,0 +1,91 @@
+baseURL = "https://kart1802.github.io/"
+languageCode = "en-us"
+title = "Karthik Swaminathan"
+theme = "digitalgarden"
+
+googleAnalytics = "UA-PROPERTY_ID"
+
+[Params]
+  description = "My Digital Garden on the Internet"
+  images = ['/digital-garden-logo.png']
+  enableSearch = true
+
+#[Params.newsletter]
+  #title = ""
+  #description = "A curated weekly digest once a week to your mailbox"
+
+  # Supports buttondown, substack and revue
+  #provider = "buttondown"
+
+  # Buttondown - URL from share page; Refer: https://blog.buttondown.email/2019/10/11/adding-a-buttondown-subscription-form-to-webflow#getting-your-subscription-url
+  # Substack - URL of the newsletter homepage; Example: https://on.substack.com/
+  # Revue - Username
+  #path = "https://buttondown.email/api/emails/embed-subscribe/"
+
+[menu]
+[[menu.main]]
+  name = 'Home'
+  url = '/'
+  weight = 1
+[[menu.main]]
+  name = 'Content'
+  params.header = true
+  weight = 2
+[[menu.main]]
+  name = 'Work Experience'
+  url = '/workexp'
+  weight = 3
+[[menu.main]]
+  name = 'Projects'
+  url = '/projects'
+  weight = 4
+[[menu.main]]
+  name = 'Stack'
+  url = '/stack'
+  weight = 5
+[[menu.main]]
+  name = 'Blogs'
+  url = '/blogs'
+  weight = 6
+[[menu.main]]
+  name = 'Links'
+  params.header = true
+  weight = 7
+#[[menu.main]]
+  #name = 'Planology'
+  #url = 'https://polywork.com'
+  #weight = 8
+
+[[menu.social]]
+  name = 'Twitter'
+  url = 'https://twitter.com/Karthik43128048'
+  weight = 1
+[[menu.social]]
+  name = 'GitHub'
+  url = 'https://github.com/kart1802'
+  weight = 2
+[[menu.social]]
+  name = 'LinkedIn'
+  url = 'https://www.linkedin.com/in/karthik-swaminathan-24644a1a2/'
+  weight = 3
+[[menu.social]]
+  name = 'Instagram'
+  url = 'https://www.instagram.com/swaminathan223/'
+  weight = 4
+[[menu.social]]
+  name = 'Youtube'
+  url = 'https://www.youtube.com/channel/UCwDY7CqEG8K2Xah92L0EAjw'
+  weight = 5
+[[menu.social]]
+  name = 'Email'
+  url = 'mailto:karthikswami.1802@gmail.com'
+  weight = 6
+
+
+# syntax highlight settings
+[markup]
+  [markup.highlight]
+    style = "dracula"
+  [markup.goldmark.renderer]
+    # Enable to include inline HTML
+    unsafe = true

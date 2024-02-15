@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Zotero",
+    "description": "Quick way to save research papers and collaborate",
+    "link": "https://www.zotero.org/",
+    "icon": "https://www.zotero.org/support/_media/logo/zotero_128x128x32.png",
+    "tag": "Research" 
+  },
+  {
+    "name": "Notion",
+    "description": "Place where scheduling of work takes place",
+    "link": "https://www.notion.so/",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg",
+    "tag": "Productivity"
+  },
+  {
+    "name": "Python",
+    "description": "Universal Language for multiple domains",
+    "link": "https://www.python.org/",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg",
+    "tag": "Scripting"
+  },
+  {
+    "name": "GitHub",
+    "description": "Code hosting for all projects",
+    "link": "https://github.com/",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png",
+    "tag": "Robotics Research"
+  },
+  {
+    "name": "Visual Studio Code",
+    "description": "An IDE to ease the life of coders:)",
+    "link": "https://code.visualstudio.com/",
+    "icon": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png",
+    "tag": "Structuring"
+  },
+  {
+    "name": "Coppeliasim",
+    "description": "Simulating scenes related to robotics",
+    "link": "https://www.coppeliarobotics.com/",
+    "icon": "https://user-images.githubusercontent.com/29420733/70393939-c5821d80-19e7-11ea-8ebd-daaadd856287.png",
+    "tag": "Simulation"
+  }
+]
