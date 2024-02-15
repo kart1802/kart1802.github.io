@@ -2,7 +2,7 @@
 title: 7th Delta Advanced Automation Contest
 date: 2021-12-17
 images:
-- https://kart1802.github.io/Karthik-Swaminathan/images/Delta_bot.png
+- /images/Delta_bot.png
 description: A Large scale Industrial Robot functioned to perform efficient bin packing
 ---
 

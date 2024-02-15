@@ -2,7 +2,7 @@
 title: Resume Maker
 date: 2021-12-13
 images:
-- https://kart1802.github.io/Karthik-Swaminathan/images/Template%20Page.png
+- /images/Template_Page.png
 description: A project that eased the process of creating a resume with user-preferenced templates
 ---
 

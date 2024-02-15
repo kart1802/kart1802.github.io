@@ -2,7 +2,7 @@
 title:  Research Intern, COE-CNDS, VJTI
 date: 2021-12-16
 images:
-- https://kart1802.github.io/Karthik-Swaminathan/images/PSP_Delta.png
+- /images/PSP_Delta.png
 # description: A parcel delivery drone capable of avoiding obstacles and reaching its goal states quickly
 ---
 

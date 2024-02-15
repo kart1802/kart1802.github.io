@@ -2,7 +2,7 @@
 title: SRA Autosim Challenge
 date: 2021-12-15
 images:
-- https://kart1802.github.io/Karthik-Swaminathan/images/Map.png
+- /images/Map.png
 description: A challenge to solve problems with different levels of complexity in the arena with a differential drive robot.
 ---
 

@@ -2,10 +2,10 @@
 title: Simulation of Soft Robot Hand
 date: 2021-12-18
 images:
-- https://kart1802.github.io/Karthik-Swaminathan/images/SW_Design.png
+- /images/SW_Design.png
 description: A study and experiment of a soft robot hand in SOFA
 ---
-<img src="">
+
 This was one of my personal projects that I did in Summer 2022.
     
 Soft Robot Simulation is one of the challenging topics till now so many data-driven approaches are extensively researched upon. Simulation software like SOFA makes it easy to work and their solvers do the work showing close to realistic behaviours.

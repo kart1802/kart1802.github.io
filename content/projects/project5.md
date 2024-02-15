@@ -2,7 +2,7 @@
 title: Automated Parking System
 date: 2021-12-14
 images:
-- https://kart1802.github.io/Karthik-Swaminathan/images/Parking%20model.png
+- /images/Parking_model.png
 description: A project that eased the process of creating a resume with user-preferenced templates
 ---
 

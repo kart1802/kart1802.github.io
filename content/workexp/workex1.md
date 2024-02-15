@@ -2,7 +2,7 @@
 title:  Summer Research Intern, Centre for Artificial Intelligence & Robotics (CAIR), DRDO
 date: 2021-12-18
 images:
-- https://defencemonitor.in/wp-content/uploads/2022/12/2019_2largeimg27_Feb_2019_115424639.jpg
+- /images/CAIR.jpg
 # description: A study and experiment of a soft robot hand in SOFA
 ---
 

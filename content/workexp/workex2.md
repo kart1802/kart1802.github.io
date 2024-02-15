@@ -2,7 +2,7 @@
 title: Research Intern, Stochastic Robotics Lab, IISc
 date: 2021-12-17
 images:
-- https://kart1802.github.io/Karthik-Swaminathan/images/Stoch_IISc.png
+- /images/Stoch_IISc.png
 # description: A Large scale Industrial Robot functioned to perform efficient bin packing
 ---
 

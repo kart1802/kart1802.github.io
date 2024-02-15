@@ -2,7 +2,7 @@
 title: Vitarana Drone (Eyantra)
 date: 2021-12-16
 images:
-- https://kart1802.github.io/Karthik-Swaminathan/images/Eyantra_Drone.jpeg
+- /images/Eyantra_Drone.jpeg
 description: A parcel delivery drone capable of avoiding obstacles and reaching its goal states quickly
 ---
 
