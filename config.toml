@@ -5,11 +5,11 @@ theme = "digitalgarden"
 publishDir = "docs"
 
 
-googleAnalytics = "UA-PROPERTY_ID"
+googleAnalytics = "G-LR2TCHHSMB"
 
 [Params]
-  description = "My Digital Garden on the Internet"
-  images = ['/digital-garden-logo.png']
+  description = "My Personal Portfolio Website"
+  images = ['/logo.png']
   enableSearch = true
 
 #[Params.newsletter]
