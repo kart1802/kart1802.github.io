@@ -14,6 +14,10 @@ I am a Research Assistant at [Robotics Research Center](https://robotics.iiit.ac
 ## News
 <hr>
 
+* <b>03/2024:</b> Paper on Task Anticipation by the robot in a Human-Robot Collaboration setting submitted at [IROS 2024](https://iros2024-abudhabi.org/)
+
+* <b>02/2024:</b> Paper on Acti-V-Link In-hand manipulator gripper submitted at [ACM RobCE 2024](https://www.robce.org/)
+
 * <b>01/2024:</b> Paper on Task Anticipated by the Agent in Household Environment accepted at ICRA 2024
 
 * <b>10/2023:</b> Article on a soft robot traversing pipeline accepted at [Everything About Water Magazine(August 2023)](https://www.eawater.com/emagazine/)

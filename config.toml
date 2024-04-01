@@ -53,10 +53,10 @@ googleAnalytics = "G-LR2TCHHSMB"
   name = 'Links'
   params.header = true
   weight = 7
-#[[menu.main]]
-  #name = 'Planology'
-  #url = 'https://polywork.com'
-  #weight = 8
+[[menu.main]]
+  name = 'DaTAPlan-HRC'
+  url = 'https://dataplan-hrc.github.io'
+  weight = 8
 
 [[menu.social]]
   name = 'Twitter'

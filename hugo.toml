@@ -3,11 +3,11 @@ languageCode = "en-us"
 title = "Karthik Swaminathan"
 theme = "digitalgarden"
 
-googleAnalytics = "UA-PROPERTY_ID"
+googleAnalytics = "G-LR2TCHHSMB"
 
 [Params]
-  description = "My Digital Garden on the Internet"
-  images = ['/digital-garden-logo.png']
+  description = "My Personal Portfolio Website"
+  images = ['/logo.png']
   enableSearch = true
 
 #[Params.newsletter]
@@ -51,10 +51,10 @@ googleAnalytics = "UA-PROPERTY_ID"
   name = 'Links'
   params.header = true
   weight = 7
-#[[menu.main]]
-  #name = 'Planology'
-  #url = 'https://polywork.com'
-  #weight = 8
+[[menu.main]]
+  name = 'DaTAPlan-HRC'
+  url = 'https://dataplan-hrc.github.io'
+  weight = 8
 
 [[menu.social]]
   name = 'Twitter'
