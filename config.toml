@@ -50,13 +50,25 @@ googleAnalytics = "G-LR2TCHHSMB"
   url = '/blogs'
   weight = 6
 [[menu.main]]
-  name = 'Links'
+  name = 'Conferences & Journals'
   params.header = true
   weight = 7
 [[menu.main]]
-  name = 'DaTAPlan-HRC'
+  name = 'IROS 2024'
   url = 'https://dataplan-hrc.github.io'
   weight = 8
+[[menu.main]]
+  name = 'RobCE 2024'
+  url = 'https://drive.google.com/file/d/1BY0qmT6W0sPhzE_7tHbiBcfmpqRReKOS/view?usp=sharing'
+  weight = 9
+[[menu.main]]
+  name = 'ICRA 2024'
+  url = 'https://drive.google.com/file/d/1LwUcbuP4mneE47R83C5fN7LgoNZhqHI9/view?usp=sharing'
+  weight = 10
+[[menu.main]]
+  name = 'EAW 2023'
+  url = 'https://drive.google.com/file/d/1QZ6DMCt8SGcu6O8ihqBvKb35xfn_ASDF/view?usp=sharing'
+  weight = 11
 
 [[menu.social]]
   name = 'Twitter'
