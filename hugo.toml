@@ -54,12 +54,12 @@ googleAnalytics = "G-LR2TCHHSMB"
 [[menu.main]]
   name = 'IROS 2024'
   #url = 'https://dataplan-hrc.github.io'
-  url = 'https://kart1802.github.io'
+  url = 'https://iros2024-abudhabi.org/'
   weight = 8
 [[menu.main]]
   name = 'RobCE 2024'
   #url = 'https://drive.google.com/file/d/1BY0qmT6W0sPhzE_7tHbiBcfmpqRReKOS/view?usp=sharing'
-  url = 'https://kart1802.github.io'
+  url = 'https://www.robce.org/'
   weight = 9
 [[menu.main]]
   name = 'Accepted Conferences & Journals'
