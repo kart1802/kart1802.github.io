@@ -53,17 +53,15 @@ googleAnalytics = "G-LR2TCHHSMB"
   weight = 7
 [[menu.main]]
   name = 'IROS 2024'
-  #url = 'https://dataplan-hrc.github.io'
   url = 'https://iros2024-abudhabi.org/'
   weight = 8
 [[menu.main]]
-  name = 'RobCE 2024'
-  #url = 'https://drive.google.com/file/d/1BY0qmT6W0sPhzE_7tHbiBcfmpqRReKOS/view?usp=sharing'
-  url = 'https://www.robce.org/'
-  weight = 9
-[[menu.main]]
   name = 'Accepted Conferences & Journals'
   params.header = true
+  weight = 9
+[[menu.main]]
+  name = 'RobCE 2024'
+  url = 'https://activlink-grip.github.io'
   weight = 10
 [[menu.main]]
   name = 'ICRA 2024'
@@ -73,6 +71,14 @@ googleAnalytics = "G-LR2TCHHSMB"
   name = 'EAW 2023'
   url = 'https://drive.google.com/file/d/1QZ6DMCt8SGcu6O8ihqBvKb35xfn_ASDF/view?usp=sharing'
   weight = 12
+[[menu.main]]
+  name = 'Workshops'
+  params.header = true
+  weight = 13
+[[menu.main]]
+  name = 'Cooking Robotics (ICRA 24)'
+  url = 'https://sites.google.com/view/icra2024cookingrobotics/accepted-works?authuser=0'
+  weight = 14
 
 [[menu.social]]
   name = 'Twitter'
