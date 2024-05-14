@@ -1,6 +1,6 @@
 ---
 title: Resume Maker
-date: 2021-12-13
+date: 2020-07-31
 images:
 - /images/Template_Page.png
 description: A project that eased the process of creating a resume with user-preferenced templates

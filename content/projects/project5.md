@@ -1,6 +1,6 @@
 ---
 title: Automated Parking System
-date: 2021-12-14
+date: 2020-06-15
 images:
 - /images/Parking_model.png
 description: A project that eased the process of creating a resume with user-preferenced templates

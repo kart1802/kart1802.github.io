@@ -1,6 +1,6 @@
 ---
 title: 7th Delta Advanced Automation Contest
-date: 2021-12-17
+date: 2022-05-22
 images:
 - /images/Delta_bot.png
 description: A Large scale Industrial Robot functioned to perform efficient bin packing

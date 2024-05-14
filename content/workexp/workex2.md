@@ -1,6 +1,6 @@
 ---
 title: Research Intern, Stochastic Robotics Lab, IISc
-date: 2021-12-17
+date: 2022-03-31
 images:
 - /images/Stoch_IISc.png
 # description: A Large scale Industrial Robot functioned to perform efficient bin packing

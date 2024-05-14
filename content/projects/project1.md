@@ -1,6 +1,6 @@
 ---
 title: Simulation of Soft Robot Hand
-date: 2021-12-18
+date: 2022-09-30
 images:
 - /images/SW_Design.png
 description: A study and experiment of a soft robot hand in SOFA

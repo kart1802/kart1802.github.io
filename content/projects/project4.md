@@ -1,6 +1,6 @@
 ---
 title: SRA Autosim Challenge
-date: 2021-12-15
+date: 2020-12-31
 images:
 - /images/Map.png
 description: A challenge to solve problems with different levels of complexity in the arena with a differential drive robot.

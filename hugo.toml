@@ -65,7 +65,7 @@ googleAnalytics = "G-LR2TCHHSMB"
   weight = 10
 [[menu.main]]
   name = 'ICRA 2024'
-  url = 'https://drive.google.com/file/d/1LwUcbuP4mneE47R83C5fN7LgoNZhqHI9/view?usp=sharing'
+  url = 'https://raraghavarora.github.io/ahsoka/'
   weight = 11
 [[menu.main]]
   name = 'EAW 2023'

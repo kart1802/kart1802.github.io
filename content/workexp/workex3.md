@@ -1,6 +1,6 @@
 ---
 title:  Research Intern, COE-CNDS, VJTI
-date: 2021-12-16
+date: 2022-05-31
 images:
 - /images/PSP_Delta.png
 # description: A parcel delivery drone capable of avoiding obstacles and reaching its goal states quickly
