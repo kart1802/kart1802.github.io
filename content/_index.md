@@ -14,6 +14,8 @@ I am a Research Assistant at [Robotics Research Center](https://robotics.iiit.ac
 ## News
 <hr>
 
+* <b>05/2024:</b> Accepted as an Inclusion Fellow at [Inclusion@RSS 2024](https://roboticsconference.org/program/inclusion/)
+
 * <b>04/2024:</b> Acti-V-Link In-hand Manipulator paper accepted at [ACM RobCE 2024](https://www.robce.org/)
 
 * <b>04/2024:</b> DaTAPlan Framework paper accepted in [Cooking Robotics Workshop](https://sites.google.com/view/icra2024cookingrobotics/accepted-works?authuser=0), ICRA 2024
