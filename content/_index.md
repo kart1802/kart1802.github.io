@@ -4,7 +4,7 @@ title: Homepage
 
 # Hello 👋
 
-<img src="/images/profile_pic.png" height="300px">
+<img src="/images/site_img.jpg" height="300px">
 <!-- [Example_image](/static/profile_pic.png) -->
 
 **Welcome to my portfolio website**
