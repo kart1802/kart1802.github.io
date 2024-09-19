@@ -14,13 +14,21 @@ I am a Research Assistant at [Robotics Research Center](https://robotics.iiit.ac
 ## News
 <hr>
 
+* <b>09/2024:</b> Paper on framework for Knowledge expansion of a robot in a household setting submitted at [ICRA 2025](https://2025.ieee-icra.org/)
+
+* <b>07/2024:</b> DaTAPlan Framework paper accepted and presented in [RSS 2024 Task Specification Workshop](https://sites.google.com/view/rss-taskspec)
+
+* <b>07/2024:</b> Delivered a "Spotlight" Talk for In-Hand Manipulator work at [RSS 2024 Dexterous Manipulation Workshop](https://dex-manipulation.github.io/rss2024)
+
+* <b>06/2024:</b> Reviewed 2 papers for [RSS 2024 Task Specification Workshop](https://sites.google.com/view/rss-taskspec)
+
 * <b>05/2024:</b> Accepted as an Inclusion Fellow at [Inclusion@RSS 2024](https://roboticsconference.org/program/inclusion/)
 
 * <b>04/2024:</b> Acti-V-Link In-hand Manipulator paper accepted at [ACM RobCE 2024](https://www.robce.org/)
 
-* <b>04/2024:</b> DaTAPlan Framework paper accepted in [Cooking Robotics Workshop](https://sites.google.com/view/icra2024cookingrobotics/accepted-works?authuser=0), ICRA 2024
+<!-- * <b>04/2024:</b> DaTAPlan Framework paper accepted in [Cooking Robotics Workshop](https://sites.google.com/view/icra2024cookingrobotics/accepted-works?authuser=0), ICRA 2024 -->
 
-* <b>03/2024:</b> Paper on Task Anticipation by the robot in a Human-Robot Collaboration setting submitted at [IROS 2024](https://iros2024-abudhabi.org/)
+<!-- * <b>03/2024:</b> Paper on Task Anticipation by the robot in a Human-Robot Collaboration setting submitted at [IROS 2024](https://iros2024-abudhabi.org/) -->
 
 * <b>02/2024:</b> Paper on Acti-V-Link In-hand manipulator gripper submitted at [ACM RobCE 2024](https://www.robce.org/)
 
@@ -29,3 +37,7 @@ I am a Research Assistant at [Robotics Research Center](https://robotics.iiit.ac
 * <b>10/2023:</b> Article on a soft robot traversing pipeline accepted at [Everything About Water Magazine(August 2023)](https://www.eawater.com/emagazine/)
 
 * <b>09/2023:</b> Submitted the paper on Task Anticipation at ICRA 2024
+
+* <b>06/2023:</b> Bachelors thesis defense
+
+* <b>02/2023:</b> Finalist at the IEEE Robosoft 2023 Competition for "In-pipe locomotion" challenge

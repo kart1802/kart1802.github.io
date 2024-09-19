@@ -52,8 +52,8 @@ googleAnalytics = "G-LR2TCHHSMB"
   params.header = true
   weight = 7
 [[menu.main]]
-  name = 'IROS 2024'
-  url = 'https://iros2024-abudhabi.org/'
+  name = 'ICRA 2025'
+  url = 'https://2025.ieee-icra.org/'
   weight = 8
 [[menu.main]]
   name = 'Accepted Conferences & Journals'
@@ -76,9 +76,13 @@ googleAnalytics = "G-LR2TCHHSMB"
   params.header = true
   weight = 13
 [[menu.main]]
-  name = 'Cooking Robotics (ICRA 24)'
-  url = 'https://sites.google.com/view/icra2024cookingrobotics/accepted-works?authuser=0'
+  name = 'Task Specification (RSS 24)'
+  url = 'https://sites.google.com/view/rss-taskspec'
   weight = 14
+[[menu.main]]
+  name = 'Dexterous Manipulation (RSS 24)'
+  url = 'https://dex-manipulation.github.io/rss2024'
+  weight = 15
 
 [[menu.social]]
   name = 'Twitter'
