@@ -2,8 +2,6 @@ baseURL = "https://kart1802.github.io/"
 languageCode = "en-us"
 title = "Karthik Swaminathan"
 theme = "digitalgarden"
-publishDir = "docs"
-
 
 googleAnalytics = "G-LR2TCHHSMB"
 
@@ -50,25 +48,37 @@ googleAnalytics = "G-LR2TCHHSMB"
   url = '/blogs'
   weight = 6
 [[menu.main]]
-  name = 'Conferences & Journals'
+  name = 'Accepted Conferences & Journals'
   params.header = true
   weight = 7
 [[menu.main]]
-  name = 'IROS 2024'
-  url = 'https://dataplan-hrc.github.io'
+  name = 'ICRA 2025'
+  url = 'https://sssshivvvv.github.io/adaptbot/'
   weight = 8
 [[menu.main]]
   name = 'RobCE 2024'
-  url = 'https://drive.google.com/file/d/1BY0qmT6W0sPhzE_7tHbiBcfmpqRReKOS/view?usp=sharing'
+  url = 'https://activlink-grip.github.io'
   weight = 9
 [[menu.main]]
   name = 'ICRA 2024'
-  url = 'https://drive.google.com/file/d/1LwUcbuP4mneE47R83C5fN7LgoNZhqHI9/view?usp=sharing'
+  url = 'https://raraghavarora.github.io/ahsoka/'
   weight = 10
 [[menu.main]]
   name = 'EAW 2023'
   url = 'https://drive.google.com/file/d/1QZ6DMCt8SGcu6O8ihqBvKb35xfn_ASDF/view?usp=sharing'
   weight = 11
+[[menu.main]]
+  name = 'Workshops'
+  params.header = true
+  weight = 12
+[[menu.main]]
+  name = 'Task Specification (RSS 24)'
+  url = 'https://sites.google.com/view/rss-taskspec'
+  weight = 13
+[[menu.main]]
+  name = 'Dexterous Manipulation (RSS 24)'
+  url = 'https://dex-manipulation.github.io/rss2024'
+  weight = 14
 
 [[menu.social]]
   name = 'Twitter'

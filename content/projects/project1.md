@@ -6,13 +6,13 @@ images:
 description: A study and experiment of a soft robot hand in SOFA
 ---
 
-This was one of my personal projects that I did in Summer 2022.
+This was one of my personal projects that I worked on in Summer 2022.
+
+Not limiting my work to rigid body systems, I became particularly interested in the topic of Soft Robot Simulation. All traditionally used Physics engines and simulators have optimized their working for rigid body systems. Soft Robots bring in the problem of nonlinear characteristics and infinite DOF, hence making them difficult to compute. Hence, many data-driven approaches are extensively researched upon. Simulation software like SOFA makes it easy to work and their solvers do the work showing close to realistic behaviours.
     
-Soft Robot Simulation is one of the challenging topics till now so many data-driven approaches are extensively researched upon. Simulation software like SOFA makes it easy to work and their solvers do the work showing close to realistic behaviours.
+In this project, the prototypes of the fingers were designed in SolidWorks and the FEM analysis of these structures were carried out.
     
-The prototypes were designed in SolidWorks and the FEM analysis of these structures were carried out.
-    
-Based on the higher bending angle on application of same amount of pressure, Prototype 4 was chosen for the simulation purpose
+The structures having multiple chambers and smooth, curved body were showcasing greater deflection. Based on the higher bending angle on application of same amount of pressure, Prototype 4 was chosen for the simulation purpose. 
     
 The structure was meshed and exported for simulation
     

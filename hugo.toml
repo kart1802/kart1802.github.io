@@ -48,41 +48,37 @@ googleAnalytics = "G-LR2TCHHSMB"
   url = '/blogs'
   weight = 6
 [[menu.main]]
-  name = 'Submitted in Conferences'
+  name = 'Accepted Conferences & Journals'
   params.header = true
   weight = 7
 [[menu.main]]
   name = 'ICRA 2025'
-  url = 'https://2025.ieee-icra.org/'
+  url = 'https://sssshivvvv.github.io/adaptbot/'
   weight = 8
-[[menu.main]]
-  name = 'Accepted Conferences & Journals'
-  params.header = true
-  weight = 9
 [[menu.main]]
   name = 'RobCE 2024'
   url = 'https://activlink-grip.github.io'
-  weight = 10
+  weight = 9
 [[menu.main]]
   name = 'ICRA 2024'
   url = 'https://raraghavarora.github.io/ahsoka/'
-  weight = 11
+  weight = 10
 [[menu.main]]
   name = 'EAW 2023'
   url = 'https://drive.google.com/file/d/1QZ6DMCt8SGcu6O8ihqBvKb35xfn_ASDF/view?usp=sharing'
-  weight = 12
+  weight = 11
 [[menu.main]]
   name = 'Workshops'
   params.header = true
-  weight = 13
+  weight = 12
 [[menu.main]]
   name = 'Task Specification (RSS 24)'
   url = 'https://sites.google.com/view/rss-taskspec'
-  weight = 14
+  weight = 13
 [[menu.main]]
   name = 'Dexterous Manipulation (RSS 24)'
   url = 'https://dex-manipulation.github.io/rss2024'
-  weight = 15
+  weight = 14
 
 [[menu.social]]
   name = 'Twitter'

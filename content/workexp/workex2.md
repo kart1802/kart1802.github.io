@@ -8,7 +8,8 @@ images:
 
 The internship was done from December 2021 till March 2022 under [Prof. Shishir Kolathaya](https://www.shishirny.com/).
 
-I was involved in developing responsive foot of the quadruped made out of TPU.
+Here, my major role was to develop a structure around the abduction area of the quadruped necessary enough to sustain fatigue loads and also make an entire responsive foot prototype made out of TPU.
 
-Along with that, I created the design for strengthing the abduction link of the quadruped.
+Through this internship, I was able to apply the machine design and analysis concept in building an agile quadruped robot.
 
+{{< youtube "ARCLIZLuNc4" >}}
