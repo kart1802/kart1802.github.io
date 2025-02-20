@@ -9,14 +9,12 @@ title: Homepage
 
 **Welcome to my portfolio website**
 
-I'm currently working as a Pre-Doctoral Fellow at [RBCCPS, IISc](https://cps.iisc.ac.in/) under Prof. [Ravi Prakash](https://ravipr009.github.io)
-
-I worked as a Research Assistant at [Robotics Research Center](https://robotics.iiit.ac.in/), IIIT Hyderabad advised by Prof. [K Madhava Krishna](https://faculty.iiit.ac.in/~mkrishna/), Prof. [Mohan Sridharan](https://homepages.inf.ed.ac.uk/msridhar/), and Dr. [Krishna Murthy Jatavallabhula](https://krrish94.github.io/). Previously, I have worked with Prof. [Shishir Kolathaya](https://www.shishirny.com/) at IISc on building mechanical structures for quadruped, Prof. [Faruk Kazi](https://in.linkedin.com/in/dr-faruk-kazi-vjti) at VJTI on developing an Industrial Robot capable of solving the problem of Bin packing. My research interests are in the domain of Manipulation, Planning, Learning and Soft Robotics. My current work revolves around combining Dynamical Systems and RL for Long-Horizon Manipulation task. My past research works focused on developing low-cost, simplistic gripper for In-Hand Manipulation, Collaborative cost reduction in the domain of Human-Robot Collaboration for household tasks. 
+I'm currently working as a Pre-Doctoral Fellow at [RBCCPS, IISc](https://cps.iisc.ac.in/) under Prof. [Ravi Prakash](https://ravipr009.github.io). I worked as a Research Assistant at [Robotics Research Center](https://robotics.iiit.ac.in/), IIIT Hyderabad advised by Prof. [K Madhava Krishna](https://faculty.iiit.ac.in/~mkrishna/), Prof. [Mohan Sridharan](https://homepages.inf.ed.ac.uk/msridhar/), and Dr. [Krishna Murthy Jatavallabhula](https://krrish94.github.io/). Previously, I have worked with Prof. [Shishir Kolathaya](https://www.shishirny.com/) at IISc on building mechanical structures for quadruped, Prof. [Faruk Kazi](https://in.linkedin.com/in/dr-faruk-kazi-vjti) at VJTI on developing an Industrial Robot capable of solving the problem of Bin packing. My research interests are in the domain of Manipulation, Planning, Learning and Soft Robotics. My current work revolves around combining Dynamical Systems and RL for Long-Horizon Manipulation task. My past research works focused on developing low-cost, simplistic gripper for In-Hand Manipulation, Collaborative cost reduction in the domain of Human-Robot Collaboration for household tasks. 
 
 ## News
 <hr>
 
-* <b>09/2024:</b> AdaptBot framework for Knowledge refinement and expansion paper accepted at [ICRA 2025](https://2025.ieee-icra.org/)
+* <b>01/2025:</b> AdaptBot framework for Knowledge refinement and expansion paper accepted at [ICRA 2025](https://2025.ieee-icra.org/)
 
 * <b>01/2025:</b> Joined RBCCPS, IISc as a Pre-Doc Fellow 
 
